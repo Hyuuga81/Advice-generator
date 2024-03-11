@@ -23,7 +23,7 @@ adviceGetter();
 
 
 const displayAdvice = function(dataAdvice, dataAdviceNo) {
-        adviceNo.innerText = `Advice #${dataAdviceNo}`;
-        advice.innerText = `"${dataAdvice}"`;
+    adviceNo.innerText = `Advice #${dataAdviceNo}`;
+    advice.innerText = `"${dataAdvice}"`;
 };
 
