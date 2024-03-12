@@ -74,6 +74,18 @@ p {
     cursor: pointer;
 }
 
+/* **************** TABLET STYLES *************** */
+
+@media (min-width: 678px) {
+    main {
+        width: 45%;
+    }
+
+    .divider {
+        width: 100%;
+    }
+}
+
 /* **************** DESKTOP STYLES *************** */
 
 @media (min-width: 1200px) {
