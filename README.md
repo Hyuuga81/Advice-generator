@@ -32,7 +32,8 @@
 ## Features
 List the ready features here:
 - The page is responsive for mobile and desktop screens.
-- When the die is clicked, it generates a piece of advice from the API.
+- The Math.random() method is used to generate a random number to select a piece of advice from the API.
+- Used an advice API to extract pieces of advice and displayed them on the screen using innerText.
 
 
 ## Screenshots
